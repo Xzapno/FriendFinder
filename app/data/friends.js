@@ -24,13 +24,13 @@ var friends = [
             5,
             1,
             4,
+            5,
+            3,
+            3,
             4,
             5,
-            1,
-            2,
             5,
-            4,
-            1
+            5
           ]
       },
 
@@ -43,11 +43,11 @@ var friends = [
             4,
             4,
             5,
-            1,
-            2,
+            5,
+            5,
             5,
             4,
-            1
+            5
           ]
       },
 
@@ -55,15 +55,15 @@ var friends = [
         "name":"Joe",
         "photo":"http://www.postavy.cz/foto/joe-mentalino-foto.jpg",
         "scores":[
+            1,
+            5,
             5,
             1,
-            4,
-            4,
             5,
             1,
-            2,
             5,
-            4,
+            1,
+            1,
             1
           ]
       },
@@ -72,16 +72,16 @@ var friends = [
         "name":"Mary",
         "photo":"https://www.aveleyman.com/Gallery/2017/H/8134-5456.jpg",
         "scores":[
-            5,
-            1,
-            4,
-            4,
-            5,
-            1,
+            3,
+            3,
+            3,
+            3,
             2,
+            1,
+            3,
             5,
-            4,
-            1
+            5,
+            5
           ]
       },
 
@@ -89,15 +89,15 @@ var friends = [
         "name":"Sea Bass",
         "photo":"https://www.aveleyman.com/Gallery/2017/N/64837-5456.jpg",
         "scores":[
+            1,
+            1,
             5,
             1,
-            4,
-            4,
+            1,
+            1,
+            5,
             5,
             1,
-            2,
-            5,
-            4,
             1
           ]
       },
@@ -106,16 +106,16 @@ var friends = [
         "name":"JP",
         "photo":"https://www.aveleyman.com/Gallery/2017/D/4967-5456.jpg",
         "scores":[
-            5,
-            1,
-            4,
-            4,
-            5,
-            1,
-            2,
-            5,
-            4,
-            1
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3
           ]
       }
 
